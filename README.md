@@ -1,2 +1,2 @@
-# nuxt-pwa-hostname-issue
+# emptyNuxtProject
 
