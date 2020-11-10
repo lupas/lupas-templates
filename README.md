@@ -1,0 +1,2 @@
+# nuxt-pwa-hostname-issue
+
